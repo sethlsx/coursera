@@ -1,1 +1,1 @@
-This repository is for assignments of coursera courses.
+This repository is for assignments of coursera course: data visualization.
